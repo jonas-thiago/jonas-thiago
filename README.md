@@ -15,7 +15,8 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### 🔭 Procurando uma vaga de Estágio Front-End, analista de Dados e Desenvolvimento WEB 
+### 🎓 Graduando em Analise e Desenvolvimento de Sistemas (2º de 4 semestres)
  
 <div> 
   <a href = "mailto:jonas.thiago6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

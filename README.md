@@ -2,12 +2,6 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e resolução de problemas.
 
-<div>
-  <a href="https://github.com/jonas-thiago">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-thiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-thiago&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
 
 ### 🛠️ Tecnologias
 <div style="display: inline-block">
